@@ -753,16 +753,16 @@ footer {
 }
 @media (max-width: 342px) {
   .logo {
-    margin-right: -8rem;
+    margin-right: -9rem;
   }
 
   .banner {
-    width: 39.5rem;
-    margin-top: 5rem;
+    width: 40.8rem;
+    margin-top: 2rem;
   }
   #check:checked ~ ul {
-    width: 37.5rem;
-    margin-top: 3rem;
+    width: 38rem;
+    margin-top: 1rem;
     font-size: 1rem;
   }
   .button {
@@ -776,11 +776,14 @@ footer {
   .nosotros {
     margin-left: 13rem;
     font-size: 30px;
-    margin-top: -7.7rem;
+    margin-top: 8.3rem;
   }
   .Nosotros {
-    margin-top: 20rem;
+    margin-top: 30rem;
     margin-right: -15rem;
+  }
+  .contenedores {
+    top: 22.3rem;
   }
 
   .vision {
@@ -791,7 +794,7 @@ footer {
   .vision {
     font-size: 28px;
     margin-left: 13rem;
-    margin-top: 17rem;
+    margin-top: 3rem;
   }
   .container {
     margin-left: 10rem;
@@ -829,7 +832,7 @@ footer {
 @media (max-width: 320px) {
   .banner {
     width: 37.5rem;
-    margin-top: 5rem;
+    margin-top: 2rem;
   }
 
   .logo {
@@ -837,9 +840,9 @@ footer {
   }
 
   #check:checked ~ ul {
-    width: 35.8rem;
-    margin-top: 3rem;
+    width: 36.3rem;
     font-size: 1rem;
+    margin-top: 1rem;
   }
 
   .button {
@@ -851,22 +854,24 @@ footer {
     width: min-content;
   }
   .Nosotros {
-    margin-top: 20rem;
+    margin-top: 30rem;
     margin-right: -15rem;
   }
 
   .nosotros {
     margin-left: 13rem;
     font-size: 30px;
-    margin-top: -7.7rem;
+    margin-top: 8.3rem;
   }
 
   .vision {
     font-size: 28px;
     margin-left: 13rem;
-    margin-top: 16rem;
+    margin-top: 3rem;
   }
-
+  .contenedores {
+    top: 22.3rem;
+  }
   .textcontact {
     text-align: inherit;
     margin-left: 1rem;
