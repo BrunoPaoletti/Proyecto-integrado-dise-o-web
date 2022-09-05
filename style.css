@@ -456,27 +456,33 @@ footer {
   }
   #check:checked ~ ul {
     width: 42rem;
-    margin-top: 3rem;
+    margin-top: 1rem;
   }
   .banner {
     margin-left: 14rem;
     width: 43.4rem;
-    margin-top: 5rem;
+    margin-top: 2rem;
   }
+
   .nosotros {
-    margin-left: 14.5rem;
+    margin-left: 13rem;
     font-size: 30px;
-    margin-top: -7.7rem;
+    margin-top: 8.3rem;
   }
   .Nosotros {
-    margin-top: 20rem;
+    margin-top: 26rem;
     margin-right: -15rem;
   }
 
   .vision {
     font-size: 28px;
-    margin-left: 14rem;
-    margin-top: 18rem;
+    margin-left: 13rem;
+    margin-top: 4rem;
+  }
+
+  .contenedores {
+    margin-right: -74px;
+    top: 22.3rem;
   }
 
   .button {
@@ -511,8 +517,8 @@ footer {
 
 @media (max-width: 443px) {
   #check:checked ~ ul {
-    width: 42rem;
-    margin-top: 3rem;
+    width: 43rem;
+    margin-top: 1rem;
   }
   .logo {
     margin-right: -4.6rem;
@@ -521,22 +527,22 @@ footer {
   .banner {
     margin-left: 14rem;
     width: 43.4rem;
-    margin-top: 5rem;
+    margin-top: 2rem;
   }
   .nosotros {
-    margin-left: 14.5rem;
+    margin-left: 13rem;
     font-size: 30px;
-    margin-top: -7.7rem;
+    margin-top: 8.3rem;
   }
   .Nosotros {
-    margin-top: 20rem;
+    margin-top: 26rem;
     margin-right: -15rem;
   }
 
   .vision {
     font-size: 28px;
-    margin-left: 14rem;
-    margin-top: 18rem;
+    margin-left: 13rem;
+    margin-top: 4rem;
   }
 
   .button {
@@ -551,6 +557,11 @@ footer {
   .contain {
     margin-left: 3.6rem;
     margin-bottom: 3rem;
+  }
+
+  .contenedores {
+    margin-right: -74px;
+    top: 22.3rem;
   }
 
   .container {
@@ -581,21 +592,22 @@ footer {
 
 @media (max-width: 425px) {
   .logo {
-    margin-right: -4.6rem;
+    margin-right: -7.6rem;
   }
 
   #check:checked ~ ul {
-    width: 40.5rem;
-    margin-top: 3rem;
+    width: 43.5rem;
+    margin-top: 1rem;
   }
   .banner {
     margin-left: 15rem;
-    width: 42.4rem;
-    margin-top: 5rem;
+    width: 45.4rem;
+    margin-top: 2rem;
   }
 
   .contenedores {
     margin-right: -74px;
+    top: 22.3rem;
   }
   .button {
     margin-left: 9rem;
@@ -616,22 +628,22 @@ footer {
   }
 
   .nosotros {
-    margin-left: 10.5rem;
+    margin-left: 13rem;
     font-size: 30px;
-    margin-top: -7.7rem;
+    margin-top: 8.3rem;
   }
   .Nosotros {
-    margin-top: 20rem;
+    margin-top: 30rem;
     margin-right: -15rem;
   }
 
   .vision {
     font-size: 28px;
-    margin-left: 10rem;
-    margin-top: 18rem;
+    margin-left: 13rem;
+    margin-top: 4rem;
   }
   .button {
-    margin-left: 8.5rem;
+    margin-left: 10.5rem;
   }
 
   .container {
@@ -668,21 +680,21 @@ footer {
 }
 @media (max-width: 375px) {
   .logo {
-    margin-right: -7rem;
+    margin-right: -9rem;
   }
 
   #check:checked ~ ul {
     width: 38.5rem;
-    margin-top: 3rem;
-    font-size: 5em;
+    margin-top: 1rem;
+    font-size: 5rem;
   }
   .banner {
     width: 39.4rem;
-    margin-top: 5rem;
+    margin-top: 2rem;
   }
 
   .contenedores {
-    margin-right: -74px;
+    top: 22.3rem;
   }
   .button {
     margin-left: 7.3rem;
@@ -706,17 +718,17 @@ footer {
   .nosotros {
     margin-left: 13rem;
     font-size: 30px;
-    margin-top: -7.7rem;
+    margin-top: 8.3rem;
   }
   .Nosotros {
-    margin-top: 20rem;
+    margin-top: 30rem;
     margin-right: -15rem;
   }
 
   .vision {
     font-size: 28px;
     margin-left: 13rem;
-    margin-top: 17rem;
+    margin-top: 5rem;
   }
 
   .container {
@@ -761,7 +773,7 @@ footer {
     margin-top: 2rem;
   }
   #check:checked ~ ul {
-    width: 38rem;
+    width: 38.6rem;
     margin-top: 1rem;
     font-size: 1rem;
   }
@@ -800,7 +812,9 @@ footer {
     margin-left: 10rem;
     width: min-content;
   }
-
+  .contenedores {
+    top: 22.3rem;
+  }
   .contain {
     margin-left: 3rem;
     margin-bottom: 3rem;
@@ -915,10 +929,14 @@ footer {
   }
 
   .banner {
-    width: 37.7rem;
+    width: 37.5rem;
+    margin-top: 2rem;
   }
   #check:checked ~ ul {
     width: 35.3rem;
+
+    font-size: 1rem;
+    margin-top: 1rem;
   }
 
   .bg {
@@ -934,7 +952,12 @@ footer {
   .nosotros {
     margin-left: 13rem;
     font-size: 30px;
-    margin-top: -7.7rem;
+    margin-top: 8.3rem;
+  }
+
+  .Nosotros {
+    margin-top: 30rem;
+    margin-right: -15rem;
   }
 
   h1 {
@@ -944,10 +967,13 @@ footer {
   }
 
   .vision {
-    font-size: 25px;
+    font-size: 28px;
     margin-left: 13rem;
+    margin-top: 3rem;
   }
-
+  .contenedores {
+    top: 22.3rem;
+  }
   .franquiciasub {
     text-align: initial;
     margin: 2rem;
